@@ -57,7 +57,7 @@ See a live demonstration in the demo section below.
 
 ## Deployement
 
-- Heroku Deployed website: https://git.heroku.com/calm-cove-80693.git
+- Heroku Deployed website: https://calm-cove-80693.herokuapp.com/
 - Github Repository Link: https://github.com/yingliii/Budget-Tracker-OnlineAndOffline
 
 ---
